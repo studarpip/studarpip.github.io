@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Arnas.P</title>
-    <link>https://studarpip.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Arnas.P</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Dec 2024 16:36:25 +0200</lastBuildDate>
-    <atom:link href="https://studarpip.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Dec 2024 17:20:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kodas ir citata</title>
+      <link>http://localhost:1313/posts/kodas/</link>
+      <pubDate>Fri, 13 Dec 2024 17:20:21 +0200</pubDate>
+      <guid>http://localhost:1313/posts/kodas/</guid>
+      <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div&gt;&#xD;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;logo&#34; src=&#34;https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png&#34; &gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, World!&amp;#39;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;`Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!`&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pirmas Postas</title>
-      <link>https://studarpip.github.io/posts/pirmaspost/</link>
+      <link>http://localhost:1313/posts/pirmaspost/</link>
       <pubDate>Fri, 13 Dec 2024 16:36:25 +0200</pubDate>
-      <guid>https://studarpip.github.io/posts/pirmaspost/</guid>
+      <guid>http://localhost:1313/posts/pirmaspost/</guid>
       <description>&lt;p&gt;Mano pirmas hugo post&lt;/p&gt;</description>
     </item>
   </channel>
