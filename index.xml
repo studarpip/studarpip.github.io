@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Arnas.P</title>
+    <link>https://studarpip.github.io/</link>
+    <description>Recent content in Home on Arnas.P</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 16:36:25 +0200</lastBuildDate>
+    <atom:link href="https://studarpip.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas Postas</title>
+      <link>https://studarpip.github.io/posts/pirmaspost/</link>
+      <pubDate>Fri, 13 Dec 2024 16:36:25 +0200</pubDate>
+      <guid>https://studarpip.github.io/posts/pirmaspost/</guid>
+      <description>&lt;p&gt;Mano pirmas hugo post&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
